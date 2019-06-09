@@ -1,0 +1,21 @@
+ 
+/* 
+color: #2F383F
+color: #1D2226
+color: #A8BBBF
+color: #A58775
+color: #A54A4A */
+
+/* WDstandardFormat */
+* {
+    font-family: 'Roboto', sans-serif;
+    color: #A8BBBF;
+    background: #1D2226;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+  }
+
+  ul {
+    list-style: none;
+  }
